@@ -6,7 +6,7 @@ This project aimed to demonstrate proficiency in SQL as well as building a dashb
 The data for this project was obtained from the [Wide World Importers](https://learn.microsoft.com/en-us/sql/samples/wide-world-importers-what-is?view=sql-server-ver17) (WWI) sample databases from Microsoft. WWI represents a fictional company which operates as a wholesale novelty goods importer and distributor. 
 
 ## Data Preparation
-The SQL query written for this project can be seen in the file labelled Sales_Query.SQL. As the data was taken from the WWI example databases, minimal data preparation was needed before building the dashboard. To develop my SQL ability, all data transformations were performed in SQL rather than creating calculated measures or columns in Power BI. 
+The SQL query written for this project can be seen in the file labelled Sales Query.SQL. As the data was taken from the WWI example databases, minimal data preparation was needed before building the dashboard. To develop my SQL ability, all data transformations were performed in SQL rather than creating calculated measures or columns in Power BI. 
 
 ## Dashboard Overview
 The dashboard consists of 3 pages. The first page provides an overall summary of WWI’s sales. Key metrics displayed on cards included net revenue, number of orders and units sold. Area charts display net revenue, number of orders and units sold over time. Bar charts display net revenue and units sold by stock group. These visuals can be manipulated by applying date filters (year, quarter and month slicers. 
